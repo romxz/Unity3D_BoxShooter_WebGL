@@ -1,4 +1,4 @@
-# BoxShooterWebGL
+# Unity3D_BoxShooter_WebGL
 
 WebGL build of a Unity3D game hands-on miniproject: a simple FPS for target practice.
 
